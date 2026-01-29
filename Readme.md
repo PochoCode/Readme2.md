@@ -34,7 +34,7 @@ Me chamo Robin Anner Rodriguez de la Rosa, tenho 23 anos, sou natural da Cuba ma
       />
    </a>
 </p>
----
+
 
 ### 🧰 Languages and Tools
 
@@ -143,8 +143,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
 #
 
 ### 📊 Stats
-
-![PochoCode GitHub stats](https://github-readme-stats.vercel.app/api?username=PochoCode&show_icons=true&theme=tokyonight)
+![PochoCode GitHub stats](https://github-readme-stats.vercel.app/api?username=PochoCodet&show_icons=true&theme=gruvbox)
 
 
 
